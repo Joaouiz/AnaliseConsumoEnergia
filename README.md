@@ -20,6 +20,19 @@ Analisar padrões de consumo de energia elétrica entre diferentes tipos de cons
 
 ---
 
+## Visualizações
+
+### 🔹 Relação entre variáveis (Pairplot)
+![Pairplot](images/pairplot.png)
+
+### 🔹 Correlação entre variáveis
+![Heatmap](images/heatmap.png)
+
+### 🔹 Consumo no horário de pico por tipo de consumidor
+![Boxplot](images/boxplot.png)
+
+---
+
 ## Principais insights
 - Consumidores industriais apresentam maior consumo médio e demanda.
 - O consumo em horário de pico é mais elevado no setor comercial.
